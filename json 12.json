@@ -1,0 +1,63 @@
+[
+  {
+    "type": "header",
+    "data": {
+      "media_type": "movie",
+      "id": 1,
+      "title": "Inception",
+      "poster_path": "https://wallpaperaccess.com/full/5623715.jpg",
+      "backdrop_path": "https://wallpaperaccess.com/full/5623715.jpg",
+      "overview": "A thief who steals dreams.",
+      "release_date": "2010-07-16",
+      "vote_average": 8.8,
+      "genre_ids": [28, 12, 878]
+    }
+  },
+
+  {
+    "type": "horizontal_list",
+    "title": "Popular Movies",
+    "data": [
+      {
+        "media_type": "movie",
+        "id": 2,
+        "title": "Interstellar",
+        "poster_path": "https://wallpaperaccess.com/full/5623715.jpg",
+        "backdrop_path": "https://wallpaperaccess.com/full/5623715.jpg",
+        "overview": "Space exploration mission.",
+        "release_date": "2014-11-07",
+        "vote_average": 9.1,
+        "genre_ids": [12, 878]
+      },
+      {
+        "media_type": "movie",
+        "id": 3,
+        "title": "The Dark Knight",
+        "poster_path": "https://wallpaperaccess.com/full/5623715.jpg",
+        "backdrop_path": "https://wallpaperaccess.com/full/5623715.jpg",
+        "overview": "Batman fights Joker.",
+        "release_date": "2008-07-18",
+        "vote_average": 9.0,
+        "genre_ids": [28, 80]
+      }
+    ]
+  },
+
+  {
+    "type": "horizontal_list",
+    "title": "Trending Series",
+    "data": [
+      {
+        "media_type": "tv",
+        "id": 10,
+        "name": "Breaking Bad",
+        "poster_path": "https://wallpaperaccess.com/full/5623715.jpg",
+        "backdrop_path": "https://wallpaperaccess.com/full/5623715.jpg",
+        "overview": "A chemistry teacher becomes a drug kingpin.",
+        "first_air_date": "2008-01-20",
+        "vote_average": 9.5,
+        "genre_ids": [18, 80]
+      }
+    ]
+  }
+]
