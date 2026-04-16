@@ -6,13 +6,12 @@
       "data": {
         "media_type": "movie",
         "id": 343611,
-        "title": "Jack Reacher: Never Go Back",
+        "title": "Jack Reacher",
         "poster_path": "https://image.tmdb.org/t/p/w500/IfB9hy4JH1eH6HEfIgIGORXi5h.jpg",
         "backdrop_path": "https://image.tmdb.org/t/p/original/4ynQYtSEuU5hyipcGkfD6ncwtwz.jpg",
-        "overview": "Jack Reacher must uncover the truth...",
+        "overview": "...",
         "release_date": "2016-10-19",
-        "vote_average": 4.19,
-        "genre_ids": [53, 28, 80, 18, 9648]
+        "vote_average": 7.0
       }
     }
   ],
