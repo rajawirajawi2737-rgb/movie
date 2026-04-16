@@ -7,7 +7,7 @@
         "media_type": "movie",
         "id": 238,
         "title": "The Godfather",
-        "poster_path": "https://media.themoviedb.org/t/p/w600_and_h900_face/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
+        "posterUrl": "https://media.themoviedb.org/t/p/w600_and_h900_face/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
         "backdrop_path": "https://media.themoviedb.org/t/p/w600_and_h900_face/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
         "overview": "...",
         "release_date": "1972-03-24",
