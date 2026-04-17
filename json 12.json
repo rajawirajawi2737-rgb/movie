@@ -7,8 +7,8 @@
         "data": {
           "id": 238,
           "title": "The Godfather",
-          "poster_path": "https://www.themoviedb.org/t/p/w1280/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
-          "backdrop_path": "https://www.themoviedb.org/t/p/w1280/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
+          "poster_path": "/w1280/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
+          "backdrop_path": /w1280/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
           "overview": "Story...",
           "release_date": "1972-03-24",
           "vote_average": 9.2,
@@ -22,8 +22,8 @@
           {
             "id": 550,
             "title": "Fight Club",
-            "poster_path": "https://www.themoviedb.org/t/p/w1280/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
-            "backdrop_path": "https://www.themoviedb.org/t/p/w1280/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
+            "poster_path": "/w1280/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
+            "backdrop_path": "/w1280/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
             "overview": "...",
             "release_date": "1999-10-15",
             "vote_average": 9.1,
@@ -53,8 +53,8 @@
         "type": "tv",
         "id": 1399,
         "name": "Game of Thrones",
-        "poster_path": "https://www.themoviedb.org/t/p/w1280/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
-        "backdrop_path": "https://www.themoviedb.org/t/p/w1280/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
+        "poster_path": "/w1280/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
+        "backdrop_path": "/w1280/cXBfjZSdJelu2r0wKD7qCxS71kb.jpg",
         "overview": "...",
         "first_air_date": "2011-04-17",
         "vote_average": 9.3
